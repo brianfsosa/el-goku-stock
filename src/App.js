@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <Box p="20px">
         <Heading as="h1" size="xl">
-          Desarrollo Goku
+          El Goku
         </Heading>
 
         <Estante></Estante>
